@@ -10,7 +10,7 @@ Post-game levels will not have any solutions. These levels I'm going to leave to
 | Trash World News - Tutorial 3 | 9 | 12 | 4 |
 | Trash World News - Tutorial 3 | 304 | 13 | 3 |
 | Euclid's Pizza - Order System | 24 | 11 | 5 |
-| Mitsuzen HDI-10 - Left Arm | 39 | 12 | 173 |
+| Mitsuzen HDI-10 - Left Arm | 38 | 22 | 173 |
 | Last Stop Snaxnet - Factory 11 | 29 | 11 | 2 |
 | Zebros Copies - Point-of-Sale System | 73 | 31 | 2 |
 | SFCTA Highway Sign #4902 - Remote Access Interface | 166 | 10 | 1 |
