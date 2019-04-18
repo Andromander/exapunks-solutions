@@ -16,10 +16,10 @@ Post-game levels will not have any solutions. These levels I'm going to leave to
 | SFCTA Highway Sign #4902 - Remote Access Interface | 166 | 10 | 1 |
 | Unknown Network 1 - Unknown Context | 16 | 29 | 27 |
 | UC Berkley - EECS Department | 161 | 37 | 7 |
-| Workhouse - Work Management System | 449 | 33 | 2 |
+| Workhouse - Work Management System | 419 | 33 | 2 |
 | Equity First Bank - San Francisco | 1309 | 19 | 10 |
 | Mitsuzen HDI-10 - Heart | 117 | 33 | 5 |
-| Trash World News - Unknown Context | 707 | 26 | 4 |
+| Trash World News - Unknown Context | 552  | 21 | 4 |
 | TEC Redshift - Development Kit | 5923 | 22 | 9 |
 | Digital Library Project - Patron Access System | 306 | 30 | 74 |
 | TEC EXA-Blaster Model - Radio Stations | 323 | 63 | 19 |
