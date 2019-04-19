@@ -12,3 +12,5 @@ As much as starting out with multiple EXAs is annoying, having one do some dirty
 To move File 200 to the Outbox, copy the solution you had for the first level, and done.
 
 Now for the message. This message is stored in File 212, no problem. Nexe step is the longest part: finding the keywords to replace, then replacing them. In all levels, you have 5 keywords to replace, so you can either have a counter for the amount of times to loop through, or keep it short and make a loop for the End of File, and make sure the other EXA knows to stop.
+
+Once you have completed this level, you will unlock the second Trash World News zine and your first Hacker Battle with mutex8021.
