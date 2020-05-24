@@ -25,16 +25,16 @@ Post-game levels will not have any solutions. These levels I'm going to leave to
 | TEC EXA-Blaster Model - Radio Stations | 323 | 63 | 19 |
 | Emerson's Guide - Streetsmarts GIS Database | 39 | 41 | 6 |
 | Mitsuzen HDI-10 - Left Hand | 50 | 24 | 9 |
-| Sawayama Wonderdisc - Drive Controller | 10505 | 63 | 64 |
+| Sawayama Wonderdisc - Drive Controller | 7482  | 59 | 64 |
 | Alliance Power and Light - Streetsmarts GIS Database | 37 | 38 | 40 |
 | Xtreme League Baseball - Player Database | 372 | 66 | 1 |
-| King's Ransom Online - U.S. West Realm | 65 | 41 | 25 |
+| King's Ransom Online - U.S. West Realm | 61 | 42 | 25 |
 | Equity First Bank - San Francisco - ATMs Offline | 320 | 55 | 2 |
 | TEC EXA-Blaster Modem - Dataphone Network | 1046 | 90 | 10 |
 | Last Stop Snaxnet - Warehouse 27 | 288 | 56 | 22 |
 | Mitsuzen HDI-10 - Visual Cortex | 399 | 50 | 12 |
 | Holman Dynamics - Sales System | 10424 | 138 | 3 |
 | U.S. Government - FEMA Genetic Database | 1251 | 120 | 42 |
-| Unknown Network 2 - Unknown Context | 430 | 33 | 56 |
+| Unknown Network 2 - Unknown Context | 331 | 32 | 56 |
 | TEC EXA-Blaster Modem - Pager Network | 596 | 75 | 26 |
 | Mitsuzen HDI-10 - Cerebral Cortex | 1028 | 135 | 190 |
